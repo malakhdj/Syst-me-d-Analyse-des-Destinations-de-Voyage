@@ -1,0 +1,301 @@
+ID hébergement,Type d'hébergement,Classement_étoile,Capacité,Prix par nuit,Durée du séjour,Propriétaire
+1,Riad,2,5,166,3,Indépendant
+2,Gîte,1,2,125,11,Indépendant
+3,Hôtel,4,2,124,1,Chaîne hôtelière
+4,Bungalow,2,4,69,10,Agence de voyage
+5,Hôtel,2,6,166,7,Chaîne hôtelière
+6,Riad,3,4,87,7,Indépendant
+7,Hôtel,1,3,107,2,Agence de voyage
+8,Gîte,5,5,204,7,Chaîne hôtelière
+9,Riad,4,3,155,7,Agence de voyage
+10,Bungalow,4,4,223,4,Chaîne hôtelière
+11,Gîte,1,4,293,11,Agence de voyage
+12,Appartement,2,5,231,7,Agence de voyage
+13,Villa,2,1,74,5,Chaîne hôtelière
+14,Hôtel,1,4,181,3,Indépendant
+15,Appartement,4,3,185,8,Agence de voyage
+16,Appartement,4,2,52,1,Indépendant
+17,Appartement,2,5,162,1,Chaîne hôtelière
+18,Hôtel,3,2,162,5,Indépendant
+19,Hôtel,4,1,133,1,Indépendant
+20,Gîte,5,6,268,8,Indépendant
+21,Riad,4,5,132,6,Indépendant
+22,Riad,1,1,215,7,Agence de voyage
+23,Gîte,1,2,184,1,Chaîne hôtelière
+24,Riad,1,4,70,9,Chaîne hôtelière
+25,Gîte,1,4,212,11,Chaîne hôtelière
+26,Villa,4,3,135,4,Indépendant
+27,Villa,2,6,134,11,Chaîne hôtelière
+28,Hôtel,4,4,228,8,Chaîne hôtelière
+29,Bungalow,5,1,112,8,Indépendant
+30,Riad,3,6,275,1,Indépendant
+31,Villa,4,2,142,9,Chaîne hôtelière
+32,Appartement,4,1,134,6,Indépendant
+33,Riad,4,1,194,11,Indépendant
+34,Bungalow,5,3,90,3,Indépendant
+35,Gîte,4,6,216,1,Agence de voyage
+36,Appartement,3,3,297,14,Indépendant
+37,Hôtel,3,3,191,7,Indépendant
+38,Riad,4,1,206,11,Indépendant
+39,Riad,2,1,91,13,Agence de voyage
+40,Villa,2,4,247,1,Chaîne hôtelière
+41,Villa,1,3,165,5,Indépendant
+42,Hôtel,2,2,120,1,Chaîne hôtelière
+43,Riad,4,6,236,8,Chaîne hôtelière
+44,Appartement,1,4,252,3,Agence de voyage
+45,Appartement,4,1,158,8,Agence de voyage
+46,Bungalow,4,2,238,8,Indépendant
+47,Hôtel,2,3,122,11,Agence de voyage
+48,Bungalow,3,4,137,11,Indépendant
+49,Gîte,2,5,128,2,Indépendant
+50,Hôtel,1,5,105,1,Chaîne hôtelière
+51,Appartement,1,6,65,11,Agence de voyage
+52,Hôtel,5,1,85,8,Chaîne hôtelière
+53,Riad,3,4,251,12,Agence de voyage
+54,Riad,5,1,215,1,Indépendant
+55,Bungalow,3,1,108,5,Indépendant
+56,Hôtel,5,2,269,3,Indépendant
+57,Hôtel,4,3,146,9,Chaîne hôtelière
+58,Riad,4,2,61,2,Agence de voyage
+59,Bungalow,5,6,220,9,Chaîne hôtelière
+60,Bungalow,2,1,128,8,Chaîne hôtelière
+61,Appartement,5,3,86,7,Indépendant
+62,Gîte,4,5,79,7,Indépendant
+63,Riad,3,2,185,10,Chaîne hôtelière
+64,Bungalow,3,6,117,7,Agence de voyage
+65,Riad,4,5,290,4,Agence de voyage
+66,Bungalow,1,2,292,12,Chaîne hôtelière
+67,Gîte,2,5,73,9,Indépendant
+68,Bungalow,1,1,65,12,Chaîne hôtelière
+69,Hôtel,4,6,184,14,Agence de voyage
+70,Hôtel,4,4,105,14,Chaîne hôtelière
+71,Bungalow,1,4,281,4,Indépendant
+72,Hôtel,2,3,297,1,Agence de voyage
+73,Riad,5,4,93,12,Indépendant
+74,Bungalow,5,3,90,2,Indépendant
+75,Villa,3,1,83,1,Chaîne hôtelière
+76,Gîte,5,2,223,11,Chaîne hôtelière
+77,Appartement,5,2,155,1,Agence de voyage
+78,Villa,1,4,91,1,Chaîne hôtelière
+79,Hôtel,2,1,263,7,Chaîne hôtelière
+80,Riad,4,1,197,7,Chaîne hôtelière
+81,Riad,4,5,297,5,Chaîne hôtelière
+82,Hôtel,4,4,130,1,Chaîne hôtelière
+83,Bungalow,2,3,182,7,Chaîne hôtelière
+84,Bungalow,1,2,101,7,Agence de voyage
+85,Hôtel,2,1,50,11,Indépendant
+86,Bungalow,2,4,81,10,Agence de voyage
+87,Riad,3,1,217,9,Agence de voyage
+88,Hôtel,2,5,174,6,Indépendant
+89,Bungalow,3,5,241,14,Chaîne hôtelière
+90,Hôtel,3,6,76,6,Agence de voyage
+91,Villa,2,6,187,5,Agence de voyage
+92,Hôtel,2,5,212,10,Agence de voyage
+93,Bungalow,1,2,142,11,Chaîne hôtelière
+94,Riad,2,2,206,12,Agence de voyage
+95,Hôtel,2,2,172,12,Agence de voyage
+96,Riad,4,1,79,12,Indépendant
+97,Appartement,4,3,265,11,Agence de voyage
+98,Appartement,1,2,226,2,Agence de voyage
+99,Bungalow,1,4,102,8,Chaîne hôtelière
+100,Gîte,4,2,209,1,Chaîne hôtelière
+101,Riad,4,5,237,5,Chaîne hôtelière
+102,Bungalow,5,5,97,10,Indépendant
+103,Gîte,4,1,285,11,Chaîne hôtelière
+104,Riad,4,1,219,3,Indépendant
+105,Riad,4,1,185,10,Chaîne hôtelière
+106,Hôtel,5,1,279,7,Agence de voyage
+107,Riad,1,4,127,5,Agence de voyage
+108,Appartement,3,5,152,14,Indépendant
+109,Villa,3,6,246,10,Chaîne hôtelière
+110,Bungalow,1,1,70,2,Agence de voyage
+111,Appartement,4,6,282,9,Agence de voyage
+112,Hôtel,5,1,85,10,Agence de voyage
+113,Hôtel,2,1,131,12,Agence de voyage
+114,Gîte,1,1,89,12,Chaîne hôtelière
+115,Bungalow,2,6,274,12,Agence de voyage
+116,Bungalow,3,1,262,5,Agence de voyage
+117,Hôtel,4,3,236,7,Agence de voyage
+118,Hôtel,5,4,225,7,Chaîne hôtelière
+119,Appartement,1,5,228,9,Chaîne hôtelière
+120,Appartement,2,4,85,4,Agence de voyage
+121,Riad,2,1,111,9,Indépendant
+122,Hôtel,4,3,288,13,Agence de voyage
+123,Gîte,2,6,128,2,Indépendant
+124,Villa,2,6,71,1,Agence de voyage
+125,Gîte,5,4,73,8,Chaîne hôtelière
+126,Villa,3,1,250,1,Indépendant
+127,Bungalow,5,1,253,1,Chaîne hôtelière
+128,Appartement,2,4,250,9,Chaîne hôtelière
+129,Hôtel,4,2,119,8,Agence de voyage
+130,Appartement,3,5,205,11,Chaîne hôtelière
+131,Appartement,1,5,131,11,Agence de voyage
+132,Bungalow,4,4,89,2,Chaîne hôtelière
+133,Riad,2,3,196,5,Indépendant
+134,Villa,3,3,296,4,Agence de voyage
+135,Appartement,1,2,191,7,Chaîne hôtelière
+136,Gîte,5,5,75,4,Chaîne hôtelière
+137,Riad,5,6,199,8,Indépendant
+138,Riad,2,5,298,10,Chaîne hôtelière
+139,Gîte,2,4,183,6,Indépendant
+140,Bungalow,1,2,274,8,Chaîne hôtelière
+141,Riad,2,1,255,2,Chaîne hôtelière
+142,Appartement,1,4,125,11,Indépendant
+143,Riad,2,2,246,13,Indépendant
+144,Bungalow,5,1,189,7,Indépendant
+145,Gîte,2,2,217,1,Indépendant
+146,Hôtel,3,3,78,13,Indépendant
+147,Hôtel,4,3,53,9,Agence de voyage
+148,Hôtel,4,5,75,9,Indépendant
+149,Appartement,3,5,218,9,Agence de voyage
+150,Gîte,2,1,81,5,Indépendant
+151,Appartement,5,3,255,1,Agence de voyage
+152,Gîte,4,2,113,1,Chaîne hôtelière
+153,Riad,3,6,255,7,Chaîne hôtelière
+154,Bungalow,4,2,79,1,Chaîne hôtelière
+155,Gîte,1,2,125,2,Agence de voyage
+156,Appartement,2,3,53,6,Chaîne hôtelière
+157,Hôtel,5,1,89,1,Chaîne hôtelière
+158,Appartement,5,4,74,9,Indépendant
+159,Hôtel,2,2,258,4,Chaîne hôtelière
+160,Appartement,1,2,240,2,Chaîne hôtelière
+161,Gîte,3,4,57,8,Agence de voyage
+162,Appartement,5,6,168,9,Indépendant
+163,Gîte,3,2,118,5,Agence de voyage
+164,Gîte,1,2,58,6,Chaîne hôtelière
+165,Appartement,1,4,108,9,Indépendant
+166,Villa,2,3,246,13,Chaîne hôtelière
+167,Appartement,2,4,61,5,Chaîne hôtelière
+168,Villa,3,1,99,5,Indépendant
+169,Hôtel,2,1,275,7,Indépendant
+170,Villa,2,3,125,9,Agence de voyage
+171,Hôtel,1,2,260,5,Chaîne hôtelière
+172,Hôtel,4,5,300,8,Agence de voyage
+173,Bungalow,1,3,64,4,Chaîne hôtelière
+174,Bungalow,5,5,258,8,Chaîne hôtelière
+175,Bungalow,4,4,50,4,Indépendant
+176,Appartement,4,5,234,14,Agence de voyage
+177,Hôtel,4,3,234,3,Indépendant
+178,Villa,1,3,122,7,Agence de voyage
+179,Bungalow,2,3,95,12,Agence de voyage
+180,Appartement,3,3,64,14,Chaîne hôtelière
+181,Hôtel,1,2,265,13,Chaîne hôtelière
+182,Riad,1,2,86,4,Agence de voyage
+183,Riad,4,2,110,2,Chaîne hôtelière
+184,Hôtel,5,4,143,10,Indépendant
+185,Riad,1,5,108,6,Agence de voyage
+186,Hôtel,5,2,182,13,Chaîne hôtelière
+187,Bungalow,2,5,281,4,Indépendant
+188,Hôtel,5,4,236,7,Chaîne hôtelière
+189,Bungalow,3,1,234,9,Agence de voyage
+190,Gîte,5,3,279,9,Agence de voyage
+191,Bungalow,3,5,172,7,Indépendant
+192,Villa,1,2,281,14,Chaîne hôtelière
+193,Villa,2,5,261,6,Chaîne hôtelière
+194,Appartement,2,1,230,12,Agence de voyage
+195,Hôtel,5,6,285,12,Agence de voyage
+196,Hôtel,3,5,284,7,Agence de voyage
+197,Villa,1,1,297,10,Indépendant
+198,Bungalow,2,3,89,2,Chaîne hôtelière
+199,Villa,2,5,272,13,Agence de voyage
+200,Riad,3,6,72,2,Indépendant
+201,Appartement,4,1,94,12,Agence de voyage
+202,Gîte,2,3,292,7,Agence de voyage
+203,Appartement,1,1,211,8,Agence de voyage
+204,Riad,3,5,82,7,Indépendant
+205,Bungalow,4,2,105,14,Indépendant
+206,Bungalow,2,6,87,2,Chaîne hôtelière
+207,Villa,4,6,128,5,Indépendant
+208,Bungalow,4,6,92,9,Chaîne hôtelière
+209,Gîte,5,5,164,10,Chaîne hôtelière
+210,Bungalow,1,1,205,1,Indépendant
+211,Gîte,4,6,177,1,Agence de voyage
+212,Riad,1,3,64,5,Agence de voyage
+213,Appartement,5,5,83,1,Agence de voyage
+214,Gîte,5,2,154,13,Indépendant
+215,Riad,3,5,100,5,Chaîne hôtelière
+216,Gîte,3,1,59,1,Agence de voyage
+217,Villa,2,6,77,13,Chaîne hôtelière
+218,Appartement,2,5,75,11,Indépendant
+219,Appartement,2,5,55,1,Agence de voyage
+220,Hôtel,3,6,177,13,Agence de voyage
+221,Gîte,5,2,175,2,Indépendant
+222,Bungalow,1,2,296,12,Indépendant
+223,Hôtel,3,2,290,2,Indépendant
+224,Gîte,4,4,116,3,Indépendant
+225,Riad,4,6,286,11,Agence de voyage
+226,Villa,2,5,162,12,Agence de voyage
+227,Hôtel,4,6,284,2,Chaîne hôtelière
+228,Hôtel,4,5,67,13,Chaîne hôtelière
+229,Riad,1,3,213,10,Agence de voyage
+230,Bungalow,4,1,192,8,Chaîne hôtelière
+231,Appartement,4,3,95,8,Indépendant
+232,Riad,5,1,255,4,Chaîne hôtelière
+233,Appartement,3,2,57,9,Indépendant
+234,Appartement,1,1,63,8,Agence de voyage
+235,Appartement,2,5,194,1,Chaîne hôtelière
+236,Hôtel,1,1,142,8,Indépendant
+237,Hôtel,2,4,263,13,Agence de voyage
+238,Villa,3,5,247,9,Indépendant
+239,Riad,2,6,72,9,Indépendant
+240,Bungalow,3,4,269,12,Agence de voyage
+241,Bungalow,2,4,168,5,Agence de voyage
+242,Bungalow,1,1,91,14,Agence de voyage
+243,Villa,3,1,108,9,Indépendant
+244,Bungalow,2,5,125,10,Chaîne hôtelière
+245,Gîte,2,6,135,7,Chaîne hôtelière
+246,Bungalow,3,5,177,8,Chaîne hôtelière
+247,Bungalow,3,1,105,3,Indépendant
+248,Appartement,5,5,175,5,Agence de voyage
+249,Riad,5,3,222,13,Chaîne hôtelière
+250,Hôtel,3,3,84,4,Chaîne hôtelière
+251,Villa,3,5,192,10,Agence de voyage
+252,Appartement,2,1,102,14,Chaîne hôtelière
+253,Villa,4,6,201,14,Agence de voyage
+254,Villa,3,3,217,9,Chaîne hôtelière
+255,Riad,2,6,140,8,Agence de voyage
+256,Hôtel,4,2,248,14,Agence de voyage
+257,Appartement,3,4,234,9,Agence de voyage
+258,Villa,4,3,137,1,Chaîne hôtelière
+259,Villa,4,2,81,1,Indépendant
+260,Riad,2,6,211,8,Chaîne hôtelière
+261,Hôtel,2,2,193,14,Indépendant
+262,Villa,5,4,273,11,Chaîne hôtelière
+263,Hôtel,5,6,104,11,Indépendant
+264,Gîte,5,3,172,6,Chaîne hôtelière
+265,Appartement,5,1,58,1,Indépendant
+266,Bungalow,3,3,274,5,Indépendant
+267,Villa,4,6,78,2,Chaîne hôtelière
+268,Gîte,2,4,128,2,Chaîne hôtelière
+269,Hôtel,1,2,203,7,Chaîne hôtelière
+270,Hôtel,4,1,273,10,Chaîne hôtelière
+271,Bungalow,5,5,180,1,Chaîne hôtelière
+272,Bungalow,2,6,82,10,Chaîne hôtelière
+273,Appartement,1,1,95,5,Indépendant
+274,Bungalow,5,4,96,3,Agence de voyage
+275,Bungalow,5,4,195,9,Agence de voyage
+276,Riad,2,1,229,8,Indépendant
+277,Appartement,1,2,122,2,Chaîne hôtelière
+278,Hôtel,1,5,76,4,Agence de voyage
+279,Villa,4,5,253,8,Agence de voyage
+280,Gîte,2,2,296,13,Chaîne hôtelière
+281,Hôtel,1,3,257,2,Chaîne hôtelière
+282,Gîte,1,5,105,12,Chaîne hôtelière
+283,Villa,4,3,291,1,Chaîne hôtelière
+284,Villa,4,5,73,14,Chaîne hôtelière
+285,Appartement,4,6,179,11,Chaîne hôtelière
+286,Riad,1,5,221,8,Agence de voyage
+287,Riad,3,1,103,11,Chaîne hôtelière
+288,Appartement,1,1,187,6,Chaîne hôtelière
+289,Bungalow,2,3,286,8,Agence de voyage
+290,Appartement,4,4,212,4,Indépendant
+291,Gîte,3,3,261,7,Indépendant
+292,Bungalow,2,1,194,7,Agence de voyage
+293,Riad,2,5,92,7,Chaîne hôtelière
+294,Hôtel,4,3,140,8,Indépendant
+295,Hôtel,2,1,140,2,Chaîne hôtelière
+296,Villa,1,4,188,14,Chaîne hôtelière
+297,Gîte,5,1,163,4,Agence de voyage
+298,Appartement,5,4,167,12,Chaîne hôtelière
+299,Appartement,1,2,288,7,Chaîne hôtelière
+300,Riad,4,6,104,8,Chaîne hôtelière

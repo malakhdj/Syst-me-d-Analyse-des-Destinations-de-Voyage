@@ -1,0 +1,301 @@
+ID client,Nom,Age client,Sexe client,Localisation client,Type client,Niveau de fidélité,Statut de réservation,Satisfaction client
+101,Fatima Bouchareb,39,F,Annaba,Entreprise,Platine,En attente,6
+102,Youssef Moulin,31,F,Bejaia,Groupe,Or,Modifiée,8
+103,Meriem Benzema,29,F,Annaba,Particulier,Bronze,Annulée,8
+104,Karim Zidane,58,M,Batna,Entreprise,Argent,Confirmée,2
+105,Samir Belkacem,59,M,Bejaia,Entreprise,Argent,Annulée,9
+106,Nassim Meziane,45,F,Biskra,Particulier,Platine,Confirmée,7
+107,Ines Mansouri,42,F,Annaba,Agence,Argent,Modifiée,9
+108,Karim Boualem,34,M,Alger,Particulier,Platine,Confirmée,3
+109,Imane Mansouri,45,M,Alger,Particulier,Or,Confirmée,7
+110,Nassim Benzema,47,M,Batna,VIP,Bronze,Confirmée,10
+111,Nadia Mokrani,49,M,Batna,Particulier,Argent,Modifiée,4
+112,Walid Boualem,35,M,Constantine,Agence,Platine,Confirmée,4
+113,Walid Khalfi,44,M,Batna,Entreprise,Argent,Confirmée,7
+114,Amina Bouchareb,25,M,Biskra,Particulier,Bronze,En attente,2
+115,Ali Moussaoui,60,M,Annaba,Particulier,Or,Modifiée,1
+116,Imane Khalfi,42,F,Setif,Particulier,Platine,Confirmée,8
+117,Sami Moulin,57,F,Tizi Ouzou,Entreprise,Argent,Modifiée,5
+118,Yasmina Kamel,29,M,Blida,Agence,Bronze,Modifiée,7
+119,Youssef Benzema,18,F,Annaba,Entreprise,Platine,Modifiée,1
+120,Khaled Benzema,29,F,Biskra,Entreprise,Platine,Annulée,7
+121,Youssef Oukil,49,M,Tizi Ouzou,Particulier,Argent,Confirmée,9
+122,Yasmina Saidani,34,F,Batna,Groupe,Platine,Annulée,5
+123,Nadia Hamidi,27,M,Alger,Groupe,Or,Confirmée,2
+124,Youssef Khalfi,38,F,Tizi Ouzou,Entreprise,Bronze,Annulée,10
+125,Mounir Chiraz,36,M,Blida,VIP,Or,Confirmée,9
+126,Samir Haddad,47,M,Alger,Groupe,Or,Annulée,5
+127,Mohamed Mansouri,21,F,Annaba,Entreprise,Platine,Confirmée,7
+128,Farida Cherif,39,F,Constantine,Groupe,Argent,En attente,4
+129,Omar Ait Ali,38,M,Tizi Ouzou,VIP,Argent,En attente,1
+130,Nassim Khalfi,34,F,Setif,Agence,Platine,Annulée,1
+131,Fatima Ferhat,18,F,Batna,Entreprise,Argent,Confirmée,3
+132,Yasmina Chiraz,39,M,Tizi Ouzou,Agence,Platine,En attente,1
+133,Fatima Belkacem,51,F,Setif,Agence,Platine,Annulée,7
+134,Sami Fekir,19,M,Alger,Particulier,Bronze,Modifiée,3
+135,Sami Guerfi,32,F,Alger,Groupe,Bronze,Modifiée,2
+136,Mohamed Hamidi,56,M,Bejaia,Entreprise,Argent,Annulée,7
+137,Yasmina Boualem,36,M,Oran,VIP,Argent,Confirmée,5
+138,Nadia Moulin,44,M,Setif,Agence,Bronze,En attente,5
+139,Mounir Saidani,48,F,Biskra,Particulier,Platine,Annulée,1
+140,Nassim Abdi,51,F,Oran,Groupe,Or,En attente,4
+141,Omar Abdi,46,M,Setif,Groupe,Platine,En attente,9
+142,Samir Ferhat,60,F,Annaba,Agence,Platine,En attente,4
+143,Ahmed Kamel,24,M,Oran,VIP,Platine,En attente,8
+144,Nassim Benali,20,M,Blida,Groupe,Argent,En attente,3
+145,Samir Haddad,29,F,Blida,VIP,Bronze,Modifiée,1
+146,Imane Mokrani,33,F,Bejaia,VIP,Or,Confirmée,6
+147,Nassim Saidani,60,M,Blida,Particulier,Argent,Annulée,4
+148,Farida Cherif,30,M,Alger,Particulier,Bronze,Confirmée,7
+149,Meriem Ait Ali,23,M,Tizi Ouzou,VIP,Bronze,Modifiée,8
+150,Rachid Toumi,28,M,Annaba,Groupe,Bronze,Confirmée,6
+151,Hassan Toumi,37,F,Alger,VIP,Platine,En attente,10
+152,Khalil Abdi,33,M,Biskra,Agence,Platine,Confirmée,10
+153,Amina Benamar,30,M,Setif,Agence,Argent,Confirmée,3
+154,Mounir Hamidi,33,M,Batna,Particulier,Argent,Confirmée,9
+155,Mohamed Moussaoui,32,F,Setif,Particulier,Argent,Annulée,1
+156,Hind Guerfi,26,F,Oran,Agence,Or,Modifiée,3
+157,Walid Hamidi,29,F,Biskra,Agence,Argent,Modifiée,1
+158,Khalil Mouhoub,33,M,Blida,VIP,Platine,Annulée,8
+159,Amina Hamidi,50,M,Blida,Particulier,Or,En attente,10
+160,Walid Haddad,29,F,Oran,Agence,Bronze,Confirmée,5
+161,Meriem Belkacem,49,M,Bejaia,Particulier,Or,En attente,1
+162,Walid Moussaoui,40,F,Oran,Agence,Bronze,Confirmée,2
+163,Ali Zidane,30,M,Blida,Entreprise,Platine,Confirmée,10
+164,Omar Meziane,45,M,Annaba,VIP,Bronze,Modifiée,5
+165,Khaled Zidane,56,F,Annaba,Agence,Platine,En attente,10
+166,Nassim Zidane,36,F,Setif,Agence,Or,Confirmée,7
+167,Khaled Ait Ali,23,M,Oran,Particulier,Bronze,Modifiée,5
+168,Farida Ait Ali,28,F,Bejaia,Particulier,Or,En attente,10
+169,Nadia Benzema,46,M,Annaba,Particulier,Bronze,Annulée,9
+170,Rachid Zidane,27,M,Annaba,Entreprise,Platine,Annulée,5
+171,Mounir Hamidi,24,F,Batna,VIP,Bronze,En attente,6
+172,Nassim Guerfi,47,F,Bejaia,VIP,Or,Confirmée,4
+173,Nadia Bouchareb,54,F,Batna,Particulier,Bronze,Confirmée,9
+174,Samir Saidani,20,F,Alger,Particulier,Platine,Modifiée,10
+175,Imane Ferhat,52,F,Annaba,Agence,Argent,En attente,7
+176,Khaled Ait Ali,20,F,Constantine,Agence,Or,Confirmée,10
+177,Dounia Boualem,23,M,Batna,VIP,Platine,Modifiée,2
+178,Mohamed Mouhoub,34,M,Batna,Agence,Platine,Confirmée,6
+179,Khalil Cherif,49,M,Constantine,Particulier,Bronze,Confirmée,1
+180,Sami Ferhat,26,F,Constantine,Particulier,Argent,Confirmée,5
+181,Ali Moussaoui,47,F,Blida,Agence,Bronze,En attente,2
+182,Ahmed Ferhat,33,M,Constantine,Particulier,Bronze,Annulée,6
+183,Sami Ferhat,22,F,Constantine,Particulier,Platine,En attente,9
+184,Walid Toumi,41,M,Blida,Groupe,Platine,Annulée,4
+185,Meriem Meziane,18,M,Blida,Agence,Argent,Annulée,7
+186,Farida Meziane,56,M,Tizi Ouzou,VIP,Argent,Confirmée,4
+187,Khaled Bouchareb,53,M,Alger,Entreprise,Bronze,Modifiée,10
+188,Khaled Khalfi,43,F,Biskra,Particulier,Platine,Modifiée,7
+189,Nadia Mansouri,35,F,Constantine,VIP,Or,Confirmée,6
+190,Mounir Ferhat,38,M,Annaba,Agence,Or,Annulée,1
+191,Sofia Moulin,20,M,Oran,VIP,Or,Confirmée,10
+192,Amina Chakiri,25,M,Biskra,Entreprise,Or,Annulée,1
+193,Amine Abdi,34,F,Biskra,VIP,Or,Annulée,6
+194,Meriem Benzema,20,M,Tizi Ouzou,Particulier,Argent,Annulée,8
+195,Ali Boualem,32,F,Constantine,Particulier,Argent,En attente,6
+196,Walid Abdi,47,M,Batna,VIP,Bronze,Annulée,7
+197,Farida Oukil,18,F,Alger,Entreprise,Argent,Confirmée,2
+198,Samir Haddad,53,M,Bejaia,VIP,Bronze,En attente,3
+199,Ines Kamel,31,M,Blida,Entreprise,Platine,Confirmée,7
+200,Fatima Bouchareb,33,F,Setif,Groupe,Or,Annulée,1
+201,Mohamed Ait Ali,32,F,Constantine,Groupe,Argent,Annulée,1
+202,Rachid Toumi,24,M,Annaba,Particulier,Or,Confirmée,5
+203,Zahra Benzema,37,M,Annaba,Groupe,Bronze,En attente,4
+204,Hind Guerfi,21,F,Blida,Particulier,Or,Confirmée,10
+205,Khaled Hachemi,21,M,Annaba,VIP,Bronze,Confirmée,6
+206,Karim Cherif,18,M,Annaba,Groupe,Argent,En attente,8
+207,Sami Fekir,29,F,Constantine,Groupe,Platine,Annulée,1
+208,Mohamed Benzema,42,M,Bejaia,VIP,Bronze,Confirmée,5
+209,Nassim Abdi,59,M,Tizi Ouzou,VIP,Or,Annulée,8
+210,Amina Mouhoub,24,M,Annaba,Entreprise,Argent,Annulée,4
+211,Meriem Meziane,40,F,Bejaia,Agence,Platine,Annulée,9
+212,Nadia Hamidi,37,F,Biskra,Particulier,Or,En attente,1
+213,Ahmed Toumi,26,M,Annaba,Entreprise,Or,Modifiée,2
+214,Imane Azzouz,47,M,Batna,Groupe,Bronze,Modifiée,3
+215,Khalil Benali,53,F,Annaba,Particulier,Argent,Modifiée,8
+216,Meriem Cherif,54,M,Oran,Entreprise,Bronze,Annulée,8
+217,Ahmed Abdi,37,F,Annaba,VIP,Bronze,En attente,6
+218,Sami Kamel,40,F,Biskra,Groupe,Platine,En attente,3
+219,Fatima Guerfi,20,F,Oran,Particulier,Or,Confirmée,10
+220,Ines Haddad,32,F,Batna,Entreprise,Bronze,Modifiée,5
+221,Zahra Mouhoub,22,M,Biskra,Particulier,Or,En attente,6
+222,Khalil Guerfi,60,F,Setif,Agence,Argent,En attente,4
+223,Karim Benamar,54,M,Setif,Agence,Argent,Modifiée,7
+224,Zahra Khalfi,59,M,Setif,Particulier,Platine,Confirmée,5
+225,Nassim Meziane,19,F,Tizi Ouzou,Particulier,Platine,Modifiée,10
+226,Mohamed Chiraz,53,F,Tizi Ouzou,Particulier,Argent,En attente,1
+227,Nadia Ferhat,57,F,Blida,VIP,Or,Confirmée,5
+228,Karim Meziane,51,M,Oran,VIP,Bronze,Confirmée,2
+229,Ahmed Belkacem,41,F,Batna,Entreprise,Bronze,En attente,6
+230,Leila Abdi,45,F,Blida,Agence,Or,Annulée,5
+231,Amine Meziane,48,M,Tizi Ouzou,Agence,Argent,En attente,5
+232,Farida Kamel,36,M,Oran,Agence,Or,En attente,7
+233,Farida Kamel,48,M,Tizi Ouzou,Agence,Or,En attente,6
+234,Youssef Cherif,19,F,Annaba,Entreprise,Bronze,Confirmée,7
+235,Zahra Haddad,47,M,Bejaia,Groupe,Platine,Modifiée,6
+236,Sofia Benzema,18,F,Blida,Agence,Platine,Modifiée,10
+237,Walid Zidane,47,M,Tizi Ouzou,Agence,Or,Confirmée,6
+238,Mounir Abdi,22,M,Bejaia,Entreprise,Platine,Confirmée,4
+239,Dounia Kamel,59,M,Bejaia,Groupe,Argent,Confirmée,9
+240,Amine Mokrani,27,M,Biskra,Groupe,Platine,Modifiée,1
+241,Leila Fekir,29,F,Annaba,Agence,Argent,En attente,9
+242,Farida Boualem,53,F,Alger,Particulier,Bronze,Modifiée,2
+243,Imane Moulin,30,F,Biskra,Entreprise,Or,Annulée,8
+244,Amina Khalfi,58,F,Tizi Ouzou,VIP,Or,En attente,5
+245,Dounia Chakiri,23,F,Alger,Agence,Platine,Modifiée,10
+246,Hassan Oukil,59,F,Biskra,VIP,Platine,Annulée,7
+247,Ines Moulin,55,F,Biskra,Groupe,Argent,Confirmée,8
+248,Ahmed Boualem,34,M,Annaba,Entreprise,Or,Confirmée,6
+249,Omar Mouhoub,54,F,Oran,Entreprise,Or,Confirmée,8
+250,Ines Kamel,54,M,Constantine,VIP,Argent,Confirmée,10
+251,Karim Meziane,49,M,Blida,Groupe,Bronze,Confirmée,10
+252,Hassan Cherif,22,F,Bejaia,Particulier,Bronze,Modifiée,9
+253,Ali Hachemi,23,F,Biskra,VIP,Platine,Modifiée,10
+254,Khalil Bouchareb,45,M,Biskra,Groupe,Platine,Confirmée,2
+255,Amina Mansouri,59,M,Alger,Groupe,Argent,Annulée,6
+256,Leila Oukil,59,M,Batna,Particulier,Bronze,Modifiée,10
+257,Farida Moulin,32,M,Annaba,Entreprise,Argent,En attente,5
+258,Nadia Meziane,33,F,Constantine,Groupe,Platine,Annulée,5
+259,Khaled Hachemi,36,F,Constantine,Groupe,Bronze,Annulée,3
+260,Sami Chiraz,18,F,Alger,Agence,Or,En attente,7
+261,Mounir Mansouri,26,M,Batna,Particulier,Platine,Modifiée,3
+262,Fatima Abdi,45,F,Alger,Agence,Platine,Annulée,1
+263,Nadia Bouchareb,46,F,Oran,Particulier,Platine,Modifiée,6
+264,Amina Fekir,27,F,Blida,Entreprise,Or,Confirmée,4
+265,Karim Mouhoub,28,M,Oran,Agence,Argent,Confirmée,6
+266,Imane Chakiri,24,M,Oran,Entreprise,Bronze,Confirmée,4
+267,Ali Chakiri,28,M,Annaba,Groupe,Bronze,Modifiée,1
+268,Hind Oukil,18,F,Alger,VIP,Argent,Annulée,9
+269,Ahmed Moussaoui,46,F,Alger,Entreprise,Bronze,En attente,7
+270,Khaled Hamidi,50,F,Setif,VIP,Or,En attente,6
+271,Karim Chiraz,33,F,Alger,Agence,Platine,Annulée,3
+272,Amina Benali,37,M,Tizi Ouzou,Groupe,Platine,Annulée,6
+273,Omar Moussaoui,33,M,Bejaia,Particulier,Or,En attente,10
+274,Ahmed Belkacem,48,M,Blida,VIP,Platine,Confirmée,7
+275,Leila Abdi,45,M,Tizi Ouzou,Particulier,Bronze,Annulée,5
+276,Karim Zidane,55,F,Tizi Ouzou,VIP,Or,Modifiée,10
+277,Fatima Chiraz,25,F,Setif,Entreprise,Bronze,En attente,8
+278,Hassan Saidani,46,M,Annaba,Particulier,Platine,Annulée,8
+279,Khalil Oukil,60,F,Constantine,Agence,Argent,Confirmée,2
+280,Imane Chakiri,19,M,Batna,Particulier,Or,Annulée,7
+281,Fatima Oukil,49,F,Blida,Entreprise,Bronze,En attente,2
+282,Ines Benali,20,F,Biskra,Particulier,Or,En attente,7
+283,Mounir Ferhat,51,F,Constantine,Entreprise,Or,Annulée,8
+284,Fatima Kamel,46,M,Alger,Entreprise,Or,Modifiée,5
+285,Hassan Zidane,43,F,Constantine,Entreprise,Argent,En attente,1
+286,Ines Mansouri,32,M,Oran,VIP,Argent,Modifiée,1
+287,Youssef Boualem,39,F,Setif,VIP,Or,En attente,5
+288,Hassan Hamidi,39,M,Oran,Entreprise,Argent,En attente,5
+289,Amine Benzema,26,M,Bejaia,Particulier,Argent,Confirmée,3
+290,Rachid Ait Ali,26,F,Blida,VIP,Or,En attente,5
+291,Zahra Cherif,43,F,Batna,Agence,Bronze,Modifiée,2
+292,Meriem Hachemi,59,F,Constantine,Particulier,Bronze,Annulée,9
+293,Farida Haddad,20,M,Biskra,Entreprise,Bronze,Annulée,6
+294,Fatima Moulin,50,F,Bejaia,Particulier,Argent,Confirmée,5
+295,Nadia Ait Ali,35,F,Alger,VIP,Or,En attente,2
+296,Leila Mokrani,31,F,Alger,Entreprise,Argent,Confirmée,6
+297,Amine Cherif,29,M,Biskra,VIP,Platine,Annulée,10
+298,Khalil Kamel,25,F,Biskra,VIP,Platine,Annulée,7
+299,Youssef Ferhat,39,M,Batna,Particulier,Or,Modifiée,9
+300,Leila Guerfi,51,M,Annaba,Groupe,Argent,Modifiée,9
+301,Nadia Moulin,18,F,Batna,Groupe,Argent,Modifiée,10
+302,Hind Oukil,59,M,Setif,Groupe,Platine,Annulée,2
+303,Nassim Azzouz,56,F,Constantine,Agence,Or,Annulée,4
+304,Hind Oukil,33,M,Blida,VIP,Or,Annulée,10
+305,Imane Khalfi,55,M,Bejaia,Particulier,Bronze,Confirmée,2
+306,Khaled Toumi,58,F,Batna,Entreprise,Bronze,Annulée,6
+307,Ali Kamel,39,M,Constantine,Entreprise,Bronze,En attente,6
+308,Imane Chakiri,30,F,Setif,VIP,Platine,Confirmée,8
+309,Fatima Benzema,28,M,Blida,Agence,Platine,En attente,2
+310,Zahra Oukil,39,F,Biskra,Entreprise,Bronze,Modifiée,2
+311,Yasmina Meziane,53,M,Setif,VIP,Or,Annulée,5
+312,Farida Moulin,18,M,Biskra,Groupe,Platine,En attente,6
+313,Yasmina Ferhat,54,F,Bejaia,Agence,Platine,Modifiée,9
+314,Meriem Cherif,52,F,Annaba,Groupe,Argent,Confirmée,4
+315,Nassim Meziane,27,M,Constantine,Entreprise,Or,Modifiée,2
+316,Amina Guerfi,33,M,Batna,Agence,Bronze,Modifiée,9
+317,Ahmed Hachemi,47,F,Batna,Entreprise,Platine,En attente,2
+318,Imane Boualem,32,F,Tizi Ouzou,Agence,Bronze,Modifiée,5
+319,Youssef Haddad,23,F,Oran,Groupe,Argent,Modifiée,7
+320,Amina Haddad,56,M,Bejaia,Entreprise,Or,Confirmée,4
+321,Hassan Ferhat,49,M,Tizi Ouzou,Agence,Platine,En attente,4
+322,Samir Ferhat,27,F,Blida,Particulier,Platine,En attente,10
+323,Leila Benzema,36,M,Annaba,Entreprise,Or,Annulée,3
+324,Dounia Chiraz,53,M,Bejaia,Agence,Platine,En attente,10
+325,Mohamed Benzema,18,M,Tizi Ouzou,Agence,Bronze,Annulée,3
+326,Walid Mokrani,21,M,Blida,Agence,Bronze,En attente,2
+327,Youssef Chakiri,35,F,Annaba,VIP,Bronze,Confirmée,4
+328,Nadia Chiraz,51,F,Oran,Groupe,Or,Modifiée,9
+329,Imane Saidani,51,M,Constantine,Particulier,Bronze,Annulée,8
+330,Omar Belkacem,57,F,Constantine,Groupe,Or,Modifiée,10
+331,Meriem Kamel,39,M,Batna,VIP,Argent,Confirmée,6
+332,Ahmed Kamel,55,M,Blida,Agence,Or,En attente,10
+333,Fatima Mokrani,28,F,Tizi Ouzou,Entreprise,Platine,En attente,7
+334,Amina Mansouri,31,M,Blida,Agence,Platine,Confirmée,3
+335,Youssef Bouchareb,45,M,Bejaia,VIP,Argent,Confirmée,2
+336,Ahmed Chiraz,51,F,Constantine,VIP,Or,Annulée,7
+337,Zahra Ferhat,41,M,Alger,Particulier,Or,Confirmée,10
+338,Khaled Chakiri,31,F,Alger,Agence,Platine,Confirmée,8
+339,Sofia Bouchareb,36,F,Oran,Entreprise,Or,Modifiée,4
+340,Sami Moulin,31,F,Bejaia,Entreprise,Argent,En attente,5
+341,Nadia Benzema,43,F,Bejaia,VIP,Argent,Annulée,1
+342,Karim Zidane,19,F,Blida,Particulier,Platine,Modifiée,5
+343,Samir Mansouri,31,F,Batna,VIP,Bronze,Modifiée,6
+344,Nadia Boualem,54,M,Alger,VIP,Argent,Modifiée,8
+345,Ines Guerfi,29,F,Blida,Agence,Bronze,En attente,6
+346,Hassan Guerfi,53,F,Tizi Ouzou,Particulier,Or,En attente,9
+347,Imane Mansouri,22,M,Setif,Groupe,Bronze,Confirmée,6
+348,Dounia Mokrani,56,F,Alger,Agence,Argent,Confirmée,10
+349,Ines Kamel,46,M,Annaba,Entreprise,Bronze,En attente,10
+350,Khalil Benamar,51,M,Batna,Groupe,Or,Annulée,8
+351,Dounia Benzema,22,F,Alger,Entreprise,Bronze,Annulée,6
+352,Rachid Saidani,34,F,Constantine,Agence,Or,Modifiée,9
+353,Fatima Benzema,26,M,Annaba,Groupe,Platine,Modifiée,7
+354,Fatima Belkacem,38,M,Batna,Particulier,Platine,Modifiée,2
+355,Meriem Abdi,20,F,Constantine,Entreprise,Bronze,Annulée,8
+356,Amine Mokrani,35,F,Bejaia,Groupe,Bronze,Confirmée,5
+357,Leila Cherif,23,F,Blida,Particulier,Bronze,Modifiée,3
+358,Yasmina Mansouri,39,M,Oran,Entreprise,Platine,Confirmée,6
+359,Mohamed Boualem,28,F,Bejaia,Agence,Argent,En attente,9
+360,Leila Kamel,59,F,Tizi Ouzou,Agence,Bronze,Annulée,4
+361,Nadia Benzema,46,F,Alger,VIP,Or,En attente,3
+362,Samir Bouchareb,30,F,Batna,VIP,Bronze,Confirmée,3
+363,Zahra Oukil,22,M,Oran,Groupe,Bronze,Confirmée,9
+364,Ali Hamidi,33,F,Annaba,Particulier,Argent,Confirmée,5
+365,Walid Moulin,22,M,Setif,Particulier,Argent,Annulée,4
+366,Fatima Moussaoui,40,M,Biskra,Particulier,Or,Modifiée,1
+367,Yasmina Azzouz,20,M,Batna,Agence,Bronze,Modifiée,2
+368,Sami Boualem,36,F,Setif,Particulier,Or,Confirmée,1
+369,Rachid Belkacem,35,F,Blida,Particulier,Argent,Modifiée,8
+370,Imane Benali,38,M,Setif,VIP,Platine,Modifiée,5
+371,Nadia Ferhat,32,M,Batna,Entreprise,Or,Annulée,6
+372,Fatima Mouhoub,24,F,Oran,Entreprise,Bronze,Confirmée,8
+373,Imane Chakiri,49,F,Oran,Agence,Bronze,Modifiée,5
+374,Yasmina Hamidi,59,M,Tizi Ouzou,Groupe,Argent,Modifiée,5
+375,Omar Mokrani,58,M,Blida,Entreprise,Bronze,Modifiée,10
+376,Fatima Boualem,38,M,Constantine,Agence,Platine,Confirmée,6
+377,Hind Moussaoui,26,F,Tizi Ouzou,Entreprise,Platine,Confirmée,5
+378,Dounia Haddad,60,M,Annaba,Agence,Bronze,Modifiée,4
+379,Mounir Benamar,41,F,Blida,Particulier,Platine,En attente,7
+380,Khaled Mansouri,34,F,Batna,Agence,Argent,Confirmée,6
+381,Farida Zidane,22,M,Bejaia,Groupe,Or,Modifiée,6
+382,Amine Benamar,27,F,Setif,Entreprise,Or,En attente,7
+383,Samir Meziane,26,M,Oran,Entreprise,Platine,Confirmée,3
+384,Imane Boualem,29,M,Alger,Agence,Or,Annulée,6
+385,Walid Zidane,51,F,Blida,Groupe,Or,En attente,2
+386,Sofia Toumi,34,M,Alger,Agence,Or,Confirmée,3
+387,Khalil Hamidi,19,F,Batna,Particulier,Bronze,Modifiée,6
+388,Sami Oukil,38,F,Alger,Entreprise,Argent,Confirmée,3
+389,Youssef Saidani,48,M,Oran,Groupe,Or,Confirmée,4
+390,Sofia Azzouz,42,M,Blida,VIP,Or,En attente,9
+391,Samir Hamidi,20,F,Bejaia,Entreprise,Platine,En attente,5
+392,Mohamed Moulin,44,M,Oran,Particulier,Or,En attente,8
+393,Amine Guerfi,57,M,Alger,Agence,Or,Modifiée,4
+394,Hassan Benali,39,M,Blida,Groupe,Argent,Modifiée,2
+395,Leila Fekir,45,M,Annaba,Entreprise,Argent,Modifiée,8
+396,Mounir Ferhat,49,M,Annaba,VIP,Bronze,Modifiée,3
+397,Nadia Khalfi,58,F,Bejaia,Groupe,Bronze,Annulée,1
+398,Karim Khalfi,38,F,Annaba,Entreprise,Argent,Confirmée,2
+399,Amina Haddad,42,M,Constantine,Agence,Argent,Confirmée,4
+400,Fatima Abdi,48,M,Constantine,Agence,Argent,Annulée,4

@@ -1,0 +1,301 @@
+ID méthode paiement,Type de paiement
+1,Espèces
+2,PayPal
+3,Espèces
+4,Carte bancaire
+5,Virement bancaire
+6,PayPal
+7,Chèque
+8,PayPal
+9,Espèces
+10,Carte bancaire
+11,Chèque
+12,Carte bancaire
+13,Carte bancaire
+14,Carte bancaire
+15,Chèque
+16,Espèces
+17,Chèque
+18,Virement bancaire
+19,Carte bancaire
+20,Chèque
+21,PayPal
+22,Carte bancaire
+23,Chèque
+24,Chèque
+25,Carte bancaire
+26,Chèque
+27,Chèque
+28,Virement bancaire
+29,Chèque
+30,Virement bancaire
+31,PayPal
+32,Chèque
+33,PayPal
+34,Virement bancaire
+35,Chèque
+36,Chèque
+37,Chèque
+38,PayPal
+39,Chèque
+40,Virement bancaire
+41,Espèces
+42,Carte bancaire
+43,Chèque
+44,Espèces
+45,PayPal
+46,PayPal
+47,Carte bancaire
+48,Virement bancaire
+49,PayPal
+50,Espèces
+51,Virement bancaire
+52,PayPal
+53,Virement bancaire
+54,Chèque
+55,Espèces
+56,Carte bancaire
+57,Virement bancaire
+58,PayPal
+59,Espèces
+60,Carte bancaire
+61,Chèque
+62,Carte bancaire
+63,Espèces
+64,Carte bancaire
+65,Carte bancaire
+66,Chèque
+67,PayPal
+68,PayPal
+69,Carte bancaire
+70,PayPal
+71,Chèque
+72,Chèque
+73,Carte bancaire
+74,PayPal
+75,Virement bancaire
+76,Carte bancaire
+77,PayPal
+78,Chèque
+79,PayPal
+80,Chèque
+81,Chèque
+82,Espèces
+83,Carte bancaire
+84,Espèces
+85,Virement bancaire
+86,Virement bancaire
+87,Carte bancaire
+88,Carte bancaire
+89,Chèque
+90,Virement bancaire
+91,PayPal
+92,Carte bancaire
+93,Chèque
+94,Virement bancaire
+95,Chèque
+96,Virement bancaire
+97,Virement bancaire
+98,Virement bancaire
+99,Chèque
+100,Virement bancaire
+101,Espèces
+102,Carte bancaire
+103,Carte bancaire
+104,Virement bancaire
+105,Carte bancaire
+106,Chèque
+107,Carte bancaire
+108,PayPal
+109,PayPal
+110,Carte bancaire
+111,Chèque
+112,Espèces
+113,Espèces
+114,PayPal
+115,Espèces
+116,PayPal
+117,Virement bancaire
+118,Espèces
+119,Espèces
+120,Chèque
+121,Chèque
+122,Chèque
+123,Espèces
+124,Chèque
+125,Chèque
+126,Chèque
+127,Carte bancaire
+128,PayPal
+129,Espèces
+130,Virement bancaire
+131,Carte bancaire
+132,PayPal
+133,Espèces
+134,Chèque
+135,Espèces
+136,PayPal
+137,Chèque
+138,PayPal
+139,Carte bancaire
+140,PayPal
+141,Chèque
+142,PayPal
+143,Espèces
+144,Virement bancaire
+145,PayPal
+146,Carte bancaire
+147,Virement bancaire
+148,Virement bancaire
+149,Carte bancaire
+150,Espèces
+151,Virement bancaire
+152,Espèces
+153,Espèces
+154,Carte bancaire
+155,Carte bancaire
+156,Chèque
+157,Espèces
+158,Carte bancaire
+159,Chèque
+160,Virement bancaire
+161,PayPal
+162,PayPal
+163,PayPal
+164,Espèces
+165,Virement bancaire
+166,PayPal
+167,Virement bancaire
+168,Espèces
+169,Carte bancaire
+170,Espèces
+171,PayPal
+172,PayPal
+173,Virement bancaire
+174,Virement bancaire
+175,Chèque
+176,Virement bancaire
+177,Espèces
+178,Virement bancaire
+179,PayPal
+180,Espèces
+181,Chèque
+182,Chèque
+183,Espèces
+184,Chèque
+185,Chèque
+186,Espèces
+187,Virement bancaire
+188,Espèces
+189,PayPal
+190,Espèces
+191,Chèque
+192,Chèque
+193,Virement bancaire
+194,PayPal
+195,Virement bancaire
+196,Carte bancaire
+197,Espèces
+198,Virement bancaire
+199,Carte bancaire
+200,Espèces
+201,Virement bancaire
+202,Carte bancaire
+203,Espèces
+204,PayPal
+205,Virement bancaire
+206,PayPal
+207,Chèque
+208,PayPal
+209,PayPal
+210,Virement bancaire
+211,Carte bancaire
+212,PayPal
+213,Virement bancaire
+214,Virement bancaire
+215,Chèque
+216,PayPal
+217,Virement bancaire
+218,Carte bancaire
+219,Virement bancaire
+220,Espèces
+221,Carte bancaire
+222,Espèces
+223,PayPal
+224,PayPal
+225,PayPal
+226,Chèque
+227,Virement bancaire
+228,Virement bancaire
+229,Carte bancaire
+230,Espèces
+231,Virement bancaire
+232,Espèces
+233,Virement bancaire
+234,Carte bancaire
+235,Virement bancaire
+236,Carte bancaire
+237,Virement bancaire
+238,Carte bancaire
+239,Virement bancaire
+240,Carte bancaire
+241,Espèces
+242,Espèces
+243,Virement bancaire
+244,Virement bancaire
+245,PayPal
+246,PayPal
+247,Carte bancaire
+248,Espèces
+249,Virement bancaire
+250,Virement bancaire
+251,Espèces
+252,PayPal
+253,Espèces
+254,Espèces
+255,PayPal
+256,PayPal
+257,Carte bancaire
+258,Chèque
+259,PayPal
+260,PayPal
+261,Carte bancaire
+262,PayPal
+263,Virement bancaire
+264,Virement bancaire
+265,Espèces
+266,Carte bancaire
+267,PayPal
+268,Virement bancaire
+269,Virement bancaire
+270,Chèque
+271,Espèces
+272,Virement bancaire
+273,Chèque
+274,PayPal
+275,Virement bancaire
+276,Carte bancaire
+277,Virement bancaire
+278,Virement bancaire
+279,Chèque
+280,Espèces
+281,Espèces
+282,Carte bancaire
+283,Espèces
+284,Carte bancaire
+285,Virement bancaire
+286,Virement bancaire
+287,Virement bancaire
+288,Espèces
+289,Espèces
+290,Espèces
+291,PayPal
+292,Chèque
+293,Carte bancaire
+294,Chèque
+295,Chèque
+296,Chèque
+297,Chèque
+298,Virement bancaire
+299,Carte bancaire
+300,PayPal
